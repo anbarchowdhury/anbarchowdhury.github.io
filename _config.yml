@@ -41,10 +41,9 @@ social:
     - https://x.com/nuranbarananto # change to your Twitter homepage
     - https://github.com/anbarchowdhury # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
- linkedin: https://www.linkedin.com/in/nur-anbar-chowdhury-25851b24b/
- Facebook: https://www.facebook.com/yummybug001
+    - https://www.linkedin.com/in/nur-anbar-chowdhury-25851b24b/
+    - https://www.facebook.com/yummybug001
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
